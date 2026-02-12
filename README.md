@@ -1,6 +1,6 @@
-🌸 Hi, I’m Fiza Akhtar! A 3rd-semester CS student and aspiring Software Engineer 🚀✨
+🌸 Hi, I’m Fiza Akhtar! A 3rd-semester AI student and aspiring learner 🚀✨
 
-💻 I spent my first semester mastering the basics of Python, HTML, and CSS
+💻 I spent my first semester mastering the basics of programming in C++ and Python, and also  HTML and CSS 
 
 ☕ I’ve since dived into Java and OOP, building logic-heavy applications
 
