@@ -31,9 +31,9 @@
 
 ## 📊 GitHub Stats:
 
-![Fiza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fizaakhtar805-code&show_icons=true&theme=tokyonight)
+![Fiza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fizaakhtar805-code&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fizaakhtar805-code&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fizaakhtar805-code&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
