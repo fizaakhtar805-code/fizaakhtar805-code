@@ -24,13 +24,8 @@
 
 ## 🎮 Projects:
 
-### 🍔 [Burger Stack Game](https://fizaakhtar805-code.github.io/burger-stack-game/)
-> A fun browser-based stacking game — drop ingredients to build the tallest burger you can!
-> Built with HTML, CSS & JavaScript
-
-### 💬 [Simple Chat Messenger](https://github.com/fizaakhtar805-code/SIMPLE-CHAT-MESSENGER)
-> A Java OOP-based chat messenger application built to practice real-world object-oriented design
-> Built with Java
+- 🍔 [Burger Stack Game](https://fizaakhtar805-code.github.io/burger-stack-game/)
+- 💬 [Simple Chat Messenger](https://github.com/fizaakhtar805-code/SIMPLE-CHAT-MESSENGER)
 
 ---
 
@@ -42,13 +37,7 @@
 
 ---
 
-## 🌱 Currently Learning:
-- Data Structures & Algorithms
-- Digital Logic Design
-- Software Engineering
+## 🤝 Random Dev Quote
 
----
-
-*Student @ COMSATS University Islamabad, Lahore Campus 🎓*
-
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
