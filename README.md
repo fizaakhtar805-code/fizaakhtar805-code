@@ -40,12 +40,8 @@
 
 ---
 
-## 📊 GitHub Stats:
 
-![Fiza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fizaakhtar805-code&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fizaakhtar805-code&layout=compact&theme=tokyonight&hide_border=true)
 
----
 
 *✨ Thanks for visiting my profile! Happy coding! 🎀*
