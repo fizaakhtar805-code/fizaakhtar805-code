@@ -35,7 +35,8 @@
 
 - 🍔 [Burger Stack Game](https://fizaakhtar805-code.github.io/burger-stack-game)
 - 💬 [Simple Chat Messenger](https://fizaakhtar805-code.github.io/simple-chat-messenger)
-- 🧮 [Kawaii OOP Calculator](https://fizaakhtar805-code.github.io/oop-calculator)
+- 🧮 [Kawaii OOP Calculator](https://fizaakhtar805-code.github.io/oop-calcuulator)
+- 
 
 ---
 
