@@ -1,19 +1,23 @@
+[![Fiza's Holopin board](https://holopin.me/fizaakhtar805-code)](https://holopin.io/@fizaakhtar805-code)
+
 # 🌸 Hi, I'm Fiza Akhtar! A 3rd-semester AI student and aspiring learner 🚀✨
 
 🖥️ I spent my first semester mastering the basics of programming in C++ and Python, and also HTML and CSS
-
 🌀 I've since dived into Java and OOP, building logic-heavy applications
-
 💬 I recently built a Chat Messenger project to practice real-world coding and UI
-
 📊 Currently, I'm deep-diving into Data Structures & Algorithms (DSA) to write better code
-
 ✏️ I enjoy breaking down complex problems and turning them into clean, efficient solutions 🌟🌟🌟🌟🌟🌟
 
 ---
 
-## 🌐 Socials:
+- 🔭 I'm currently working on **AI-powered Resume Screening System**
+- 🌱 I'm currently learning **Machine Learning, N8n Workflow Automation**
+- 💬 Ask me about **C++, Python, Java, JavaScript, HTML/CSS, DSA**
+- 📫 How to reach me: **fizaakhtar805@gmail.com**
 
+---
+
+## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com)
@@ -21,7 +25,6 @@
 ---
 
 ## 🖥️ Tech Stack:
-
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -32,17 +35,17 @@
 ---
 
 ## 🎮 Projects:
-
 - 🍔 [Burger Stack Game](https://fizaakhtar805-code.github.io/burger-stack-game)
 - 💬 [Simple Chat Messenger](https://fizaakhtar805-code.github.io/simple-chat-messenger)
 - 🧮 [Kawaii OOP Calculator](https://fizaakhtar805-code.github.io/calcuulator)
-  🙋‍♂️🙋‍♂️🙋‍♂️🙋‍♂️🙋‍♂️👌👌👌
 - 📚 [Exam Panic Scheduler](https://fizaakhtar805-code.github.io/Exam-Panic-Scheduler/)
 
 ---
 
+## 🐍 Contribution Snake
 
+![Snake animation](https://raw.githubusercontent.com/fizaakhtar805-code/fizaakhtar805-code/output/github-snake-dark.svg)
 
-
+---
 
 *✨ Thanks for visiting my profile! Happy coding! 🎀*
