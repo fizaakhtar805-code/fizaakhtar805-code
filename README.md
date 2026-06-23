@@ -1,4 +1,3 @@
-[![Fiza's Holopin board](https://holopin.me/fizaakhtar805-code)](https://holopin.io/@fizaakhtar805-code)
 
 # 🌸 Hi, I'm Fiza Akhtar! A 3rd-semester AI student and aspiring learner 🚀✨
 
