@@ -11,8 +11,8 @@
 
 - 🔭 I'm currently working on **AI-powered Resume Screening System**
 - 🌱 I'm currently learning **Machine Learning, N8n Workflow Automation**
-- 💬 Ask me about **C++, Python, Java, JavaScript, HTML/CSS, DSA**
-- 📫 How to reach me: **fizaakhtar805@gmail.com**
+- 💬 Ask me about **C++, Python, Java, HTML/CSS, DSA**
+
 
 ---
 
@@ -29,7 +29,6 @@
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
