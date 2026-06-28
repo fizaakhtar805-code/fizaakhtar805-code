@@ -1,9 +1,10 @@
 
-# 🌸 Hi, I'm Fiza Akhtar! A 3rd-semester AI student and aspiring learner 🚀✨
+# 🌸 Hi, I'm Fiza Akhtar! A 4th-semester AI student and aspiring learner 🚀✨
 
 🖥️ I spent my first semester mastering the basics of programming in C++ and Python, and also HTML and CSS
 🌀 I've since dived into Java and OOP, building logic-heavy applications
 💬 I recently built a Chat Messenger project to practice real-world coding and UI
+💃💃I am learning n8n, AI automation, this summer. It is fun. I am loving it 
 📊 Currently, I'm deep-diving into Data Structures & Algorithms (DSA) to write better code
 ✏️ I enjoy breaking down complex problems and turning them into clean, efficient solutions 🌟🌟🌟🌟🌟🌟
 
