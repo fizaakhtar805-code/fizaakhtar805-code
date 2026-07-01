@@ -1,22 +1,29 @@
-# 🌸 Hi, I'm Fiza Akhtar! A 4th-semester AI student and aspiring learner 🚀✨
+# 🌸 Hi, I'm Fiza Akhtar! A 3rd-semester AI student and aspiring learner 🚀✨
 
 🖥️ I spent my first semester mastering the basics of programming in C++ and Python, and also HTML and CSS
+
 🌀 I've since dived into Java and OOP, building logic-heavy applications
+
 💬 I recently built a Chat Messenger project to practice real-world coding and UI
-💃💃I am learning n8n, AI automation, this summer. It is fun. I am loving it
+
 📊 Currently, I'm deep-diving into Data Structures & Algorithms (DSA) to write better code
+
 ✏️ I enjoy breaking down complex problems and turning them into clean, efficient solutions 🌟🌟🌟🌟🌟🌟
 
 ---
 
-- 🔭 I'm currently working on **AI-powered Resume Screening System**
-- 🌱 I'm currently learning **Machine Learning, N8n Workflow Automation**
-- 💬 Ask me about **C++, Python, Java, HTML/CSS, DSA**
+## 🐍 Contribution Snake
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fizaakhtar805-code/fizaakhtar805-code/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fizaakhtar805-code/fizaakhtar805-code/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fizaakhtar805-code/fizaakhtar805-code/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
 ## 🌐 Socials:
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com)
@@ -24,25 +31,40 @@
 ---
 
 ## 🖥️ Tech Stack:
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+[![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)](#)
+[![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](#)
+[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](#)
+
+---
+
+## 📊 GitHub Stats & Insights
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fizaakhtar805-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=fizaakhtar805-code&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fizaakhtar805-code&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fizaakhtar805-code&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophy" />
+</p>
 
 ---
 
 ## 🎮 Projects:
+
 - 🍔 [Burger Stack Game](https://fizaakhtar805-code.github.io/burger-stack-game)
 - 💬 [Simple Chat Messenger](https://fizaakhtar805-code.github.io/simple-chat-messenger)
-- 🧮 [Kawaii OOP Calculator](https://fizaakhtar805-code.github.io/calcuulator)
+- 🧮 [Kawaii OOP Calculator](https://fizaakhtar805-code.github.io/calcuulator) 🙋‍♀️👌
 - 📚 [Exam Panic Scheduler](https://fizaakhtar805-code.github.io/Exam-Panic-Scheduler/)
-
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/fizaakhtar805-code/fizaakhtar805-code/output/github-snake-dark.svg)
 
 ---
 
