@@ -1,5 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Fiza%20Akhtar&fontSize=40&fontColor=fff" />
 # 🌸 Hi, I'm Fiza Akhtar! A 4th-semester AI student and aspiring learner 🚀✨
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fizaakhtar805-code/fizaakhtar805-code/main/Hand_coding-cuate.png" width="400" />
+  <img src="https://raw.githubusercontent.com/fizaakhtar805-code/fizaakhtar805-code/main/Website_Creator-cuate.png" width="400" />
+</p>
 
 - 🖥️ I spent my first semester mastering the basics of programming in C++ and Python, and also HTML and CSS
 - 🌀 I've since dived into Java and OOP, building logic-heavy applications
