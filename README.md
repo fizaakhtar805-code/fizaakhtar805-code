@@ -45,18 +45,26 @@
 ![Snake animation](https://raw.githubusercontent.com/fizaakhtar805-code/fizaakhtar805-code/output/github-snake-dark.svg)
 
 ---
+## 📊 GitHub Stats
+
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=fizaakhtar805-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://helio-github-stats.vercel.app/api?username=fizaakhtar805-code&show_icons=true&theme=tokyonight&hide_border=true" />
 <img height="165" src="https://streak-stats.demolab.com/?user=fizaakhtar805-code&theme=tokyonight&hide_border=true" />
 </p>
 
----
+<br>
+
+## 💻 Top Languages
+
 <p align="center">
 <img src="https://helio-github-stats.vercel.app/api/top-langs/?username=fizaakhtar805-code&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
----
+
+<br>
+
+## 🏆 Trophies
+
 <p align="center">
 <img src="https://trophy.benkou.dev/?username=fizaakhtar805-code&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
----
 *✨ Thanks for visiting my profile! Happy coding! 🎀*
