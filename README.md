@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=F7CAC9&height=180&section=header&text=Fiza%20Akhtar&fontSize=35&fontColor=333333" />
 # 🌸 Hi, I'm Fiza Akhtar! A 4th-semester AI student and aspiring learner 🚀✨
 
 - 🖥️ I spent my first semester mastering the basics of programming in C++ and Python, and also HTML and CSS
