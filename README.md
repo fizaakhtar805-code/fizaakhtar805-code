@@ -49,4 +49,9 @@
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=fizaakhtar805-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="165" src="https://streak-stats.demolab.com/?user=fizaakhtar805-code&theme=tokyonight&hide_border=true" />
 </p>
+---
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fizaakhtar805-code&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+--
 *✨ Thanks for visiting my profile! Happy coding! 🎀*
