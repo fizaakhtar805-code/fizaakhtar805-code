@@ -54,4 +54,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fizaakhtar805-code&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 --
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=fizaakhtar805-code&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 *✨ Thanks for visiting my profile! Happy coding! 🎀*
