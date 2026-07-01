@@ -74,4 +74,6 @@
 <img src="https://trophy.benkou.dev/?username=fizaakhtar805-code&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 <br><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Fiza%20Akhtar&fontSize=40&fontColor=fff" />
+<br>
 *✨ Thanks for visiting my profile! Happy coding! 🎀*
