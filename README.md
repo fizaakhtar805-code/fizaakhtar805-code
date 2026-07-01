@@ -1,5 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=200&section=header&text=Fiza%20Akhtar&fontSize=40&fontColor=fff&animation=fadeIn" />
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=150&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Fiza%20Akhtar&fontSize=40&fontColor=fff" />
 # 🌸 Hi, I'm Fiza Akhtar! A 4th-semester AI student and aspiring learner 🚀✨
 
 - 🖥️ I spent my first semester mastering the basics of programming in C++ and Python, and also HTML and CSS
@@ -76,5 +75,5 @@
 <img src="https://trophy.benkou.dev/?username=fizaakhtar805-code&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 <br><br>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Fiza%20Akhtar&fontSize=40&fontColor=fff" />
+
 *✨ Thanks for visiting my profile! Happy coding! 🎀*
