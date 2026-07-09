@@ -45,6 +45,7 @@
 - 🧮 [Kawaii OOP Calculator](https://fizaakhtar805-code.github.io/calcuulator)
 - 📚 [Exam Panic Scheduler](https://fizaakhtar805-code.github.io/Exam-Panic-Scheduler/)
 - 🤖 [AI/ML Project](https://fizaakhtar805.pythonanywhere.com/)
+-      [AI freelancer  assistant](https://fizaakhtar805.pythonanywhere.com/)
 
 ---
 
