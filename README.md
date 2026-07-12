@@ -1,5 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Fiza%20Akhtar&fontSize=40&fontColor=fff" />
-# 🌸 Hi, I'm Fiza Akhtar! A 4th-semester AI student and aspiring learner 🚀✨
+# 🌸 Hi, I'm Fiza Akhtar! A 4th-semester AI student and aspiring learner 🚀
 
 - 🖥️ I spent my first semester mastering the basics of programming in C++ and Python, and also HTML and CSS
 - 🌀 I've since dived into Java and OOP, building logic-heavy applications
