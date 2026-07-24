@@ -7,7 +7,7 @@
 - 💃 I am learning n8n, AI automation, this summer. It is fun. I am loving it
 - 🌀 This summer I'm mastering **n8n AI Automation** — and loving every bit of it
 - 📊 Currently, I'm deep-diving into Data Structures & Algorithms (DSA) to write better code
-- ✏️ I enjoy breaking down complex problems and turning them into clean, efficient solutions 🌟🌟
+- ✏️ I enjoy breaking down complex problems and turning them into clean, efficient solutions 🌟
 
 ---
 
