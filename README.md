@@ -10,7 +10,6 @@
 
 ---
 
-- 🔭 I'm currently working on **AI-powered Resume Screening System**
 - 🌱 I'm currently learning **Machine Learning, N8n Workflow Automation**
 
 
