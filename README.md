@@ -75,8 +75,11 @@
 
 ## 🏆 🏆 🏆 Trophies
 
+## 🏅 Achievements
+
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=fizaakhtar805-code&theme=tokyonight&no-frame=true&row=1&column=5" /></p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fizaakhtar805-code&theme=tokyo-night&hide_border=true" />
+</p>
 <br><br>
 
 *✨ Thanks for visiting my profile! Happy coding! 🎀🌸🌸🌸🌸🌸🌸🌸*
