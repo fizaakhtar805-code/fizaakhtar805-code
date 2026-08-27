@@ -72,11 +72,7 @@
 </p>
 
 <br>
-
-## 🏆 🏆 🏆 Trophies
-
 ## 🏅 Achievements
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fizaakhtar805-code&theme=tokyo-night&hide_border=true" />
 </p>
