@@ -72,9 +72,10 @@
 </p>
 
 <br>
-## 🏅 Achievements
+## 📈 Contribution Graph
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fizaakhtar805-code&theme=tokyo-night&hide_border=true" />
+  <img src="https://ghchart.rshah.org/tokyonight/fizaakhtar805-code" alt="Fiza's GitHub chart" />
 </p>
 <br><br>
 
