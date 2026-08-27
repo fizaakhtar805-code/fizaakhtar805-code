@@ -76,7 +76,7 @@
 ## 🏆 🏆 🏆 Trophies
 
 <p align="center">
-<img src="https://trophy.benkou.dev/?username=fizaakhtar805-code&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy-snowy-five.vercel.app/?username=fizaakhtar805-code&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 <br><br>
 
