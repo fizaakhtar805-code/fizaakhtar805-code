@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=fizaakhtar805-code)
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Fiza%20Akhtar&fontSize=40&fontColor=fff" />
   🌸 Hi, I'm Fiza Akhtar! A 4th-semester AI student and aspiring learner 🚀🚀🚀🚀
   
