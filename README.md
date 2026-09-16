@@ -80,5 +80,5 @@
 </p>
 <br><br>
 
-*✨ Thanks for visiting my profile! Happy coding! 🎀🌸🌸🌸🌸🌸🌸🌸*
+*✨ Thanks for visiting my profile! Happy coding! 🎀🌸🌸🌸🌸🌸*
 🌸*
